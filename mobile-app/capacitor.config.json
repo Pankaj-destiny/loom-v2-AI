@@ -1,0 +1,13 @@
+{
+  "appId": "com.loom.chat",
+  "appName": "Loom",
+  "webDir": "www",
+  "server": {
+    "url": "https://REPLACE-WITH-YOUR-DEPLOYED-URL.onrender.com",
+    "cleartext": true,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
